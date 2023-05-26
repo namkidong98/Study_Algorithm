@@ -8,4 +8,6 @@
 ##### 2. deadline이 적은 순으로 job을 할당하며 lateness를 측정한다
 ##### 3. 모든 job이 할당되고 난 이후 maximum lateness를 측정한다
 
+<br/>
 ![lateness.png](https://github.com/namkidong98/Study_Algorithm/blob/main/Scheduling-Minimizing%20lateness/lateness.PNG)
+<br/>
