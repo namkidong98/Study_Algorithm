@@ -1,7 +1,7 @@
 ## Scheduling: Minimizing Lateness
 #### Goal: Find a schedule S so as to minimize the maximum lateness
 #### lateness = max { 0, start + time spent - deadline } 
-<br/>
+
 
 #### Implementation
 ##### 1. job ID, time taken, deadline을 입력 받고 qsort를 통해 deadline이 적은 순으로 정렬한다
