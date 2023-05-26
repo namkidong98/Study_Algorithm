@@ -9,5 +9,4 @@
 ##### 3. 모든 job이 할당되고 난 이후 maximum lateness를 측정한다
 
 <br/>
-#### Output
 ![lateness.png](https://github.com/namkidong98/Study_Algorithm/blob/main/Scheduling-Minimizing%20lateness/lateness.PNG)
